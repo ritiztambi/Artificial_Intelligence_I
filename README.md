@@ -1,2 +1,3 @@
 # Artificial_Intelligence_I
-Lisp Programming Assignments for the course AI-1 taught at University of Minnesota Twin Cities
+Implementation of Greedy-Search with state space generation for Missionary Cannibals Problem.
+Implementation of A* Search with state space generation and misplaced tiles heuristic for 8Puzzle Problem.
